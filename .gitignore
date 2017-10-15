@@ -101,3 +101,8 @@ ENV/
 .mypy_cache/
 
 RUNS/
+
+# vim temporary files
+*~
+*.swp
+*.swo
